@@ -1,4 +1,4 @@
-## -How_to_use_Sklearn_pipelines
+## Predictive_study_of_the_Titanic_incident
 
 In this tutorial, I explain how to use scikit learning pipelines to find the best machine learning model with the best hyperparameters possible. Then I use this model to make predictions. Once satisfied with the performance of my model, I keep it for a future prediction and especially to deploy it online. 
 
