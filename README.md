@@ -13,5 +13,3 @@ Here are the steps you will see in this little tutorial:
 **4. Test the best selected model by making a prediction on a randomly selected sample from the dataset**
 
 **5. Finally, save the template**
-
-**6. Use the flask module to deploy the model**
